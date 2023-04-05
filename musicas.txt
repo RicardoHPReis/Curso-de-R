@@ -1,0 +1,7 @@
+CAD3004,Frank Black, Frank Black, 15, CD
+Col4851, Weather Report, Sweetnnighter, 6, CD
+Rep2257, Neil Young, Decade I, 19, CD
+Rep4335, Neil Young, Weld,12, CD
+Chp1432, Red Hot Chili Peppers, Mothers Milk, 13, Tape
+EMI1233, Primus, The Brown Album, 12, Tape
+Atl4500, Led Zeppelin, Led Zep 3, 11, CD
